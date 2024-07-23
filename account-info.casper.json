@@ -1,0 +1,71 @@
+{
+  "owner": {
+    "name": "DomaNodes",
+    "description": "DomaNodes is a validator node operator on the Casper Network. We are a team of blockchain enthusiasts with a passion for decentralization and security. We are committed to contributing to the Casper Network and the broader blockchain ecosystem.",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "",
+      "privacy_policy_url": "",
+      "other": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
+    },
+    "affiliated_accounts": [
+      {
+        "public_key": "0158ed3b452164d0f79e65e05cec9052f6b0acb6c470159bd9ed41037bd20c0100"
+      }
+    ],
+    "website": "https://domanodes.com",
+    "email": "",
+    "branding": {
+      "logo": {
+        "png_256": "https://ibb.co/MD0Dsty",
+        "png_1024": "",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "Planet Earth",
+      "country": "∞",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "doma2k",
+      "telegram": "@domanodes",
+      "twitter": "@domakyrylo",
+      "github": "doma2k",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "reddit": "",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "0158ed3b452164d0f79e65e05cec9052f6b0acb6c470159bd9ed41037bd20c0100",
+      "description": "This validator is running on a bare metal machine with top hardware specifications",
+      "location": {
+        "name": "Planet Earth",
+        "country": "∞",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
